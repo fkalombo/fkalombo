@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on building a blog using the .Net framework
 - 🌱 I’m currently learning Spring boot 
 - 👯 I’m looking to collaborate on ...
